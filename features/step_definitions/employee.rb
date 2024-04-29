@@ -30,7 +30,6 @@ Entao('esse funcionario sera cadastrado') do
     expect(@create_employee.message).to eql 'Created'
 end
 
-
 Dado('que o usuario altere uma informacao de funcionario') do
     @request = Employee_Request.new
 end

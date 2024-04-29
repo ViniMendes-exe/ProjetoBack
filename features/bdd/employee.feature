@@ -10,7 +10,6 @@ Funcionalidade: Pesquisar Funcionarios
         Quando ele realizar a pesquisa
         Entao uma lista de funcionarios deve retornar
     
-    
     Cenario: Cadastrar funcionario
         Dado que o usuario cadastre um novo funcionario
         Quando ele enviar as informacoes de funcionario
