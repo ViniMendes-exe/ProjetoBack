@@ -15,3 +15,8 @@ Funcionalidade: Pesquisar Funcionarios
         Dado que o usuario cadastre um novo funcionario
         Quando ele enviar as informacoes de funcionario
         Entao esse funcionario sera cadastrado
+
+    Cenario: Alterar informacoes cadastrais
+        Dado que o usuario altere uma informacao de funcionario
+        Quando ele enviar as novas informacoes
+        Entao as informacao serao alteradas
